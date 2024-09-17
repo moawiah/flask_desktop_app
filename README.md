@@ -1,4 +1,4 @@
-# Electron-Flask App
+# Desktop-Flask App
 
 This is a simple Flask application that can be converted into a standalone desktop application using `PyInstaller` and `pywebview`. The app demonstrates a basic task management system and serves as a single-page application (SPA). Below is a detailed guide on how to set it up, run it, and package it as an executable.
 
